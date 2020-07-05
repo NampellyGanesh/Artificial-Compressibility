@@ -1,0 +1,35 @@
+file_name
+
+bumpgrid_copy.dat
+
+imax   jmax
+298      150
+
+uinf   vinf    pinf      rho     scaling_factor     left_boundary    Right     Top       Bottom      istop     dt         restart
+20.0   0.0    101325.0   1.225       1.0                 1             2        3         3            5000    1e-6         0 
+
+CFL    irest     iprint   ipurge   beta
+0.1      1000       2      1       20.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
